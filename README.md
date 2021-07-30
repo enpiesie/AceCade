@@ -5,18 +5,16 @@ I like to code and play Hypixel Bedwars in my free time.
 I'm working on projects such as my own client: Ace Client, Minecraft mods, and texture packs.
 
 - Contacts {
-
   Discord: AceCade#5223                                                                                       
   Email: contact@acecade.xyz                                                                                       
-  Youtube: https://www.youtube.com/channel/UCmRcuWqOosz6Q_B69sa4How                                                                                       
-  
-}
+  Youtube: https://www.youtube.com/channel/UCmRcuWqOosz6Q_B69sa4How                                                                                      
+  }
 
-- My inspirations:
+- My inspirations {
   - https://www.youtube.com/technoblade
   - https://github.com/quickdaffy
   - https://www.youtube.com/channel/UCDO0hEkGSvujLnb3cZb0XCA
-                                                                                                                        
+  }                                                                                                                       
                                                                                                                         
                                                                                                                         
                                                                                                                                                                                                                                                 
