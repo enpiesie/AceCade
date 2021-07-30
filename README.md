@@ -11,9 +11,9 @@ I'm working on projects such as my own client: Ace Client, Minecraft mods, and t
   }
 
 - My inspirations {
-  - https://www.youtube.com/technoblade
-  - https://github.com/quickdaffy
-  - https://www.youtube.com/channel/UCDO0hEkGSvujLnb3cZb0XCA
+  - https://www.youtube.com/technoblade                                                                                                                 
+  - https://github.com/quickdaffy                                                                                                                 
+  - https://www.youtube.com/channel/UCDO0hEkGSvujLnb3cZb0XCA                                                                                                                 
   }                                                                                                                       
                                                                                                                         
                                                                                                                         
